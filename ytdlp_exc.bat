@@ -25,7 +25,7 @@ yt-dlp --ffmpeg-location %ffmpeg_location% --extract-audio --audio-format mp3 %Y
 echo:
 echo:
 cls
-GOTO START
+GOTO music
 
 :video
 
