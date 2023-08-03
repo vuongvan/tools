@@ -1,5 +1,5 @@
 @echo off
-set ffmpeg_location="E:\SOFT\ffmpeg"
+
 :START
 ECHO.
 ECHO 1. Tai mp3
@@ -34,7 +34,7 @@ cls
 ECHO Tai video kem sub
 ECHO.
 set /p YouTubeURL=Nhap Link Youtube: 
-yt-dlp --ffmpeg-location %ffmpeg_location% -N 6 --no-mtime --sponsorblock-mark intro,outro --embed-chapters --convert-subs srt --embed-subs --sub-langs vi,en -f 247+bestaudio/best/247 --merge-output-format mkv  %YouTubeURL%
+yt-dlp --ffmpeg-location %ffmpeg_location% -N 6 --no-mtime --sponsorblock-mark intro,outro --embed-chapters --convert-subs srt --embed-subs --sub-langs vi,en -f 247+bestaudio/best/247 --merge-output-format mkv --extractor-args "youtube:lang=en" %YouTubeURL%
 echo:
 echo:
 cls
