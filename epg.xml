@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv source-info-name="sonhp" source-info-url="http://hoangphison.com" source-data-url="" generator-info-name="jaylinski/xmltv" generator-info-url="https://github.com/jaylinski/xmltv">
+  <channel id="vtv1">
+    <display-name lang="en">VTV1 HD</display-name>
+    <icon src="https://i.imgur.com/te4Rb7f.png" width="" height=""/>
+  </channel>
+  <channel id="vtv2">
+    <display-name lang="en">VTV2 HD</display-name>
+    <icon src="https://i.imgur.com/KmngEnt.png" width="" height=""/>
+  </channel>
+  <channel id="vtv3">
+    <display-name lang="en">VTV3 HD</display-name>
+    <icon src="https://i.imgur.com/yNiXZri.png" width="" height=""/>
+  </channel>
+  <channel id="vtv4">
+    <display-name lang="en">VTV4 HD</display-name>
+    <icon src="https://i.imgur.com/WG3Wi0q.png" width="" height=""/>
+  </channel>
+  <channel id="vtv5">
+    <display-name lang="en">VTV5 HD</display-name>
+    <icon src="https://i.imgur.com/lOvwbNQ.png" width="" height=""/>
+  </channel>
+  <channel id="vtv6">
+    <display-name lang="en">VTV6 HD</display-name>
+    <icon src="https://i.imgur.com/QI4bFvX.png" width="" height=""/>
+  </channel>
+  <channel id="vtv7">
+    <display-name lang="en">VTV7 HD</display-name>
+    <icon src="https://i.imgur.com/z8m5lWk.png" width="" height=""/>
+  </channel>
+  <channel id="vtv8">
+    <display-name lang="en">VTV8 HD</display-name>
+    <icon src="https://i.imgur.com/mIjvO6X.png" width="" height=""/>
+  </channel>
+  <channel id="vtv9">
+    <display-name lang="en">VTV9 HD</display-name>
+    <icon src="https://i.imgur.com/GDP5zVb.png" width="" height=""/>
+  </channel>
+  <channel id="axn">
+    <display-name lang="en">AXN HD</display-name>
+    <icon src="https://i.imgur.com/5Gtp7WP.png" width="" height=""/>
+  </channel>
+  <channel id="hbo">
+    <display-name lang="en">HBO HD</display-name>
+    <icon src="https://i.imgur.com/6YSLw8h.png" width="" height=""/>
+  </channel>
+  <channel id="max_by_hbo">
+    <display-name lang="en">Max by HBO</display-name>
+    <icon src="https://i.imgur.com/PklWJDL.png" width="" height=""/>
+  </channel>
+  <channel id="animal_planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <icon src="https://i.imgur.com/9t7FsCk.png" width="" height=""/>
+  </channel>
+  <channel id="cartoon_network">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <icon src="https://i.imgur.com/nzvNMfP.png" width="" height=""/>
+  </channel>
+  <channel id="discovery_asia">
+    <display-name lang="en">Discovery Asia HD</display-name>
+    <icon src="https://i.imgur.com/blEhr2T.png" width="" height=""/>
+  </channel>
+  <channel id="discovery">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <icon src="https://i.imgur.com/fXuxFbz.png" width="" height=""/>
+  </channel>
+  <channel id="fox_life">
+    <display-name lang="en">FOX Life</display-name>
+    <icon src="https://i.imgur.com/8COzEQg.png" width="" height=""/>
+  </channel>
+  <channel id="fox_movies">
+    <display-name lang="en">FOX Movies</display-name>
+    <icon src="https://i.imgur.com/1bzBhnP.png" width="" height=""/>
+  </channel>
+  <channel id="fox_family_movies">
+    <display-name lang="en">FOX Family Movies</display-name>
+    <icon src="https://i.imgur.com/8TuxjVp.png" width="" height=""/>
+  </channel>
+  <channel id="fox_sports">
+    <display-name lang="en">FOX Sports HD</display-name>
+    <icon src="https://i.imgur.com/JsFd6Nl.png" width="" height=""/>
+  </channel>
+  <channel id="fox_sports2">
+    <display-name lang="en">FOX Sports 2 HD</display-name>
+    <icon src="https://i.imgur.com/acCilxO.png" width="" height=""/>
+  </channel>
+  <channel id="fox_sports3">
+    <display-name lang="en">FOX Sports 3 HD</display-name>
+    <icon src="https://i.imgur.com/dhRuUbt.png" width="" height=""/>
+  </channel>
+  <channel id="disney_channel">
+    <display-name lang="en">Disney Channel</display-name>
+    <icon src="https://i.imgur.com/06F6gjj.png" width="" height=""/>
+  </channel>
+  <channel id="disney_junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <icon src="https://i.imgur.com/ZUBEPXt.png" width="" height=""/>
+  </channel>
+  <channel id="mtv_asia">
+    <display-name lang="en">MTV Asia</display-name>
+    <icon src="https://i.imgur.com/gpWosop.png" width="" height=""/>
+  </channel>
+  <channel id="channel_v">
+    <display-name lang="en">Channel V</display-name>
+    <icon src="https://i.imgur.com/BT8eRjq.png" width="" height=""/>
+  </channel>
+  <channel id="diva">
+    <display-name lang="en">DIVA</display-name>
+    <icon src="https://i.imgur.com/OJNm5Vt.png" width="" height=""/>
+  </channel>
+  <channel id="da_vinci_kids">
+    <display-name lang="en">Da Vinci Kids</display-name>
+    <icon src="https://i.imgur.com/ZkEEeM9.png" width="" height=""/>
+  </channel>
+  <channel id="asian_food_channel">
+    <display-name lang="en">Asian Food Channel</display-name>
+    <icon src="https://i.imgur.com/rQ3Sgrn.png" width="" height=""/>
+  </channel>
+  <channel id="outdoor_channel">
+    <display-name lang="en">Outdoor Channel</display-name>
+    <icon src="https://i.imgur.com/Z3xc8p1.png" width="" height=""/>
+  </channel>
+  <channel id="fashion_tv">
+    <display-name lang="en">Fashion TV</display-name>
+    <icon src="https://i.imgur.com/Zyy11Cs.png" width="" height=""/>
+  </channel>
+  <channel id="fox">
+    <display-name lang="en">FOX HD</display-name>
+    <icon src="https://i.imgur.com/cwVCPqN.png" width="" height=""/>
+  </channel>
+  <channel id="national_geographic">
+    <display-name lang="en">National Geographic HD</display-name>
+    <icon src="https://i.imgur.com/cjx78kt.png" width="" height=""/>
+  </channel>
+  <channel id="blue_ant_entertainment">
+    <display-name lang="en">Blue Ant Entertainment</display-name>
+    <icon src="https://i.imgur.com/BaZuGNL.png" width="" height=""/>
+  </channel>
+  <channel id="blue_ant_extreme">
+    <display-name lang="en">Blue Ant Extreme</display-name>
+    <icon src="https://i.imgur.com/EUHDtZ5.png" width="" height=""/>
+  </channel>
+  <channel id="warner_tv_hd">
+    <display-name lang="en">Warner TV HD</display-name>
+    <icon src="https://i.imgur.com/z8Cm35k.png" width="" height=""/>
+  </channel>
+  <channel id="tlc">
+    <display-name lang="en">TLC (Travel &amp; Living)</display-name>
+    <icon src="https://i.imgur.com/amlBPub.png" width="" height=""/>
+  </channel>
+  <channel id="red_by_hbo">
+    <display-name lang="en">Red by HBO</display-name>
+    <icon src="https://i.imgur.com/S3LHf04.png" width="" height=""/>
+  </channel>
+  <channel id="nhk_world">
+    <display-name lang="en">NHK World</display-name>
+    <icon src="https://i.imgur.com/OV5nhkM.png" width="" height=""/>
+  </channel>
+  <channel id="bbc_earth">
+    <display-name lang="en">BBC EARTH</display-name>
+    <icon src="https://i.imgur.com/3sQunND.png" width="" height=""/>
+  </channel>
+  <channel id="bbc_lifestyle">
+    <display-name lang="en">BBC LIFESTYLE</display-name>
+    <icon src="https://i.imgur.com/wwTUVYP.png" width="" height=""/>
+  </channel>
+  <channel id="bbc_world_news">
+    <display-name lang="en">BBC WORLD NEWS</display-name>
+    <icon src="https://i.imgur.com/9ZqIRg1.png" width="" height=""/>
+  </channel>
+  <channel id="baby_tv_hd">
+    <display-name lang="en">Baby TV HD</display-name>
+    <icon src="https://i.imgur.com/s28XuHs.png" width="" height=""/>
+  </channel>
+  <channel id="abc_australia">
+    <display-name lang="en">ABC AUSTRALIA</display-name>
+    <icon src="https://i.imgur.com/0OrWtJm.png" width="" height=""/>
+  </channel>
+  <channel id="kix_hd">
+    <display-name lang="en">KIX HD</display-name>
+    <icon src="https://i.imgur.com/CVxACz9.png" width="" height=""/>
+  </channel>
+  <channel id="cinema_world_hd">
+    <display-name lang="en">CINEMA WORLD HD</display-name>
+    <icon src="https://i.imgur.com/KcEAjUh.png" width="" height=""/>
+  </channel>
+  <channel id="htv1">
+    <display-name lang="en">HTV1</display-name>
+    <icon src="https://i.imgur.com/BvjmYtr.png" width="" height=""/>
+  </channel>
+  <channel id="htv2">
+    <display-name lang="en">HTV2 HD</display-name>
+    <icon src="https://i.imgur.com/12qnM2B.png" width="" height=""/>
+  </channel>
+  <channel id="htv3">
+    <display-name lang="en">HTV3</display-name>
+    <icon src="https://i.imgur.com/8GOohTX.png" width="" height=""/>
+  </channel>
+  <channel id="htv4">
+    <display-name lang="en">HTV4</display-name>
+    <icon src="https://i.imgur.com/JBNgrHU.png" width="" height=""/>
+  </channel>
+  <channel id="htv7">
+    <display-name lang="en">HTV7 HD</display-name>
+    <icon src="https://i.imgur.com/EPZzYTx.png" width="" height=""/>
+  </channel>
+  <channel id="htv9">
+    <display-name lang="en">HTV9 HD</display-name>
+    <icon src="https://i.imgur.com/vMxj1BX.png" width="" height=""/>
+  </channel>
+  <channel id="htv_the_thao">
+    <display-name lang="en">HTV Thể Thao</display-name>
+    <icon src="https://i.imgur.com/gSnnXza.png" width="" height=""/>
+  </channel>
+  <channel id="htv_the_thao">
+    <display-name lang="en">HTV Thể Thao HD</display-name>
+    <icon src="https://i.imgur.com/gSnnXza.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_plus_hd">
+    <display-name lang="en">HTVC+ HD</display-name>
+    <icon src="https://i.imgur.com/vNp7k14.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_phim_hd">
+    <display-name lang="en">HTVC Phim HD</display-name>
+    <icon src="https://i.imgur.com/qQSl5rD.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_gia_dinh">
+    <display-name lang="en">HTVC Gia Đình</display-name>
+    <icon src="https://i.imgur.com/EAv5N7c.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_gia_dinh">
+    <display-name lang="en">HTVC Gia Đình HD</display-name>
+    <icon src="https://i.imgur.com/EAv5N7c.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_du_lich_cuoc_song">
+    <display-name lang="en">HTVC Du Lịch &amp; Cuộc Sống</display-name>
+    <icon src="https://i.imgur.com/GWGhPu7.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_du_lich_cuoc_song">
+    <display-name lang="en">HTVC Du Lịch &amp; Cuộc Sống HD</display-name>
+    <icon src="https://i.imgur.com/GWGhPu7.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_phu_nu">
+    <display-name lang="en">HTVC Phụ Nữ</display-name>
+    <icon src="https://i.imgur.com/pTuBwDS.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_phu_nu">
+    <display-name lang="en">HTVC Phụ Nữ HD</display-name>
+    <icon src="https://i.imgur.com/pTuBwDS.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_thuan_viet_hd">
+    <display-name lang="en">HTVC Thuần Việt HD</display-name>
+    <icon src="https://i.imgur.com/jOeEfm6.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_thuan_viet">
+    <display-name lang="en">HTVC Thuần Việt</display-name>
+    <icon src="https://i.imgur.com/qSzadDW.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_ca_nhac">
+    <display-name lang="en">HTVC Ca Nhạc HD</display-name>
+    <icon src="https://i.imgur.com/WltXVFn.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_fbnc">
+    <display-name lang="en">FBNC HD</display-name>
+    <icon src="https://i.imgur.com/Ekn8jdW.png" width="" height=""/>
+  </channel>
+  <channel id="htvc_coop">
+    <display-name lang="en">HTVC CO.OP</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="htvc_vgs_shop">
+    <display-name lang="en">HTVC VGS SHOP</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtc1">
+    <display-name lang="en">VTC1 HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/239px-VTC1_logo_2018.svg.png" width="" height=""/>
+  </channel>
+  <channel id="vtc2">
+    <display-name lang="en">VTC2 HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/239px-VTC2_logo_2018.svg.png" width="" height=""/>
+  </channel>
+  <channel id="vtc3">
+    <display-name lang="en">VTC3 HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/VTC3_logo_2018.svg/239px-VTC3_logo_2018.svg.png" width="" height=""/>
+  </channel>
+  <channel id="vtc4_yeah1_family">
+    <display-name lang="en">VTC4 Yeah1 Family HD</display-name>
+    <icon src="https://i.imgur.com/v9DNS85.png" width="" height=""/>
+  </channel>
+  <channel id="vtc5">
+    <display-name lang="en">VTC5 HD</display-name>
+    <icon src="https://i.imgur.com/w18H0gU.jpg" width="" height=""/>
+  </channel>
+  <channel id="vtc6">
+    <display-name lang="en">VTC6 HD</display-name>
+    <icon src="https://i.imgur.com/YasRGy0.png" width="" height=""/>
+  </channel>
+  <channel id="vtc7_today_tv">
+    <display-name lang="en">VTC7 Today TV HD</display-name>
+    <icon src="https://i.imgur.com/lW2DbEB.png" width="" height=""/>
+  </channel>
+  <channel id="vtc8">
+    <display-name lang="en">VTC8</display-name>
+    <icon src="https://i.imgur.com/FVM7co8.jpg" width="" height=""/>
+  </channel>
+  <channel id="vtc9_lets_viet">
+    <display-name lang="en">VTC9 Let's Viet HD</display-name>
+    <icon src="https://i.imgur.com/UOIPXAr.png" width="" height=""/>
+  </channel>
+  <channel id="vtc10">
+    <display-name lang="en">VTC10 HD</display-name>
+    <icon src="https://i.imgur.com/gyKnxEP.png" width="" height=""/>
+  </channel>
+  <channel id="vtc11_kids_tv">
+    <display-name lang="en">VTC11 Kids TV</display-name>
+    <icon src="https://i.imgur.com/liNUOk4.jpg" width="" height=""/>
+  </channel>
+  <channel id="vtc12">
+    <display-name lang="en">VTC12</display-name>
+    <icon src="https://i.imgur.com/OHzugWa.jpg" width="" height=""/>
+  </channel>
+  <channel id="vtc13">
+    <display-name lang="en">VTC13 HD</display-name>
+    <icon src="https://i.imgur.com/hLQNEhy.png" width="" height=""/>
+  </channel>
+  <channel id="vtc14">
+    <display-name lang="en">VTC14 HD</display-name>
+    <icon src="https://i.imgur.com/85swmKd.png" width="" height=""/>
+  </channel>
+  <channel id="vtc16">
+    <display-name lang="en">VTC16 HD</display-name>
+    <icon src="https://i.imgur.com/amaDGnw.jpg" width="" height=""/>
+  </channel>
+  <channel id="thvl1">
+    <display-name lang="en">THVL1</display-name>
+    <icon src="https://mytv.com.vn/upload/channel/24.png" width="" height=""/>
+  </channel>
+  <channel id="thvl2">
+    <display-name lang="en">THVL2</display-name>
+    <icon src="https://mytv.com.vn/upload/channel/28.png" width="" height=""/>
+  </channel>
+  <channel id="THVL3 HD">
+    <display-name lang="en">THVL3</display-name>
+    <icon src="https://mytv.com.vn/upload/channel/29.png" width="" height=""/>
+  </channel>
+   <channel id="THVL4 HD">
+    <display-name lang="en">THVL4</display-name>
+    <icon src="https://mytv.com.vn/upload/channel/57.png" width="" height=""/>
+  </channel>
+  <channel id="ttxvn">
+    <display-name lang="en">TTXVN - Thông Tấn Xã VN HD</display-name>
+    <icon src="https://i.imgur.com/7uV8top.png" width="" height=""/>
+  </channel>
+  <channel id="antv">
+    <display-name lang="en">ANTV - An Ninh TV HD</display-name>
+    <icon src="https://i.imgur.com/5qQzerW.png" width="" height=""/>
+  </channel>
+  <channel id="nhan_dan_tv">
+    <display-name lang="en">Nhân Dân TV HD</display-name>
+    <icon src="https://i.imgur.com/rswzxzG.png" width="" height=""/>
+  </channel>
+  <channel id="quoc_hoi_tv">
+    <display-name lang="en">Quốc Hội TV HD</display-name>
+    <icon src="https://i.imgur.com/IqErj7W.png" width="" height=""/>
+  </channel>
+  <channel id="quoc_phong_tv">
+    <display-name lang="en">QPTV - Quốc Phòng VN HD</display-name>
+    <icon src="https://i.imgur.com/yLQfmkW.png" width="" height=""/>
+  </channel>
+  <channel id="sctv10">
+    <display-name lang="en">SCTV10</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="btv9_an_vien">
+    <display-name lang="en">BTV9 - An Viên HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="btv6_viet_teen">
+    <display-name lang="en">BTV6 - Việt Teen</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="btv10_ncm">
+    <display-name lang="en">BTV10 - NCM</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="btv11_sam">
+    <display-name lang="en">BTV11 - SAM</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="hanoitv1">
+    <display-name lang="en">Hà Nội 1 HD</display-name>
+    <icon src="https://i.imgur.com/GhJ0JTH.png" width="" height=""/>
+  </channel>
+  <channel id="hanoitv2">
+    <display-name lang="en">Hà Nội 2 HD</display-name>
+    <icon src="https://i.imgur.com/OogZeGW.png" width="" height=""/>
+  </channel>
+  <channel id="arirang">
+    <display-name lang="en">Arirang</display-name>
+    <icon src="https://i.imgur.com/iIrAEGx.png" width="" height=""/>
+  </channel>
+  <channel id="cnbc">
+    <display-name lang="en">CNBC</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="cnn">
+    <display-name lang="en">CNN</display-name>
+    <icon src="https://i.imgur.com/krupazx.png" width="" height=""/>
+  </channel>
+  <channel id="vovtv">
+    <display-name lang="en">VOV TV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="hbo">
+    <display-name lang="en">HBO HD</display-name>
+    <icon src="https://i.imgur.com/6YSLw8h.png" width="" height=""/>
+  </channel>
+  <channel id="btv4_imovie">
+    <display-name lang="en">BTV4 iMovies HD</display-name>
+    <icon src="https://i.imgur.com/lWJcLEv.png" width="" height=""/>
+  </channel>
+  <channel id="sctv2_amc">
+    <display-name lang="en">SCTV2 AMC</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="cna_channel_news_asia">
+    <display-name lang="en">Channel News Asia - CNA</display-name>
+    <icon src="https://i.imgur.com/eyzGJhD.png" width="" height=""/>
+  </channel>
+  <channel id="tv5monde_asie">
+    <display-name lang="en">TV5Monde Asie</display-name>
+    <icon src="https://i.imgur.com/JuELCHc.png" width="" height=""/>
+  </channel>
+  <channel id="france_24">
+    <display-name lang="en">France 24</display-name>
+    <icon src="https://i.imgur.com/YTlPk6Q.png" width="" height=""/>
+  </channel>
+  <channel id="kplus1hd">
+    <display-name lang="en">K+1 HD (DRM)</display-name>
+    <icon src="https://i.imgur.com/4DqLcOH.png" width="" height=""/>
+  </channel>
+  <channel id="kplusnshd">
+    <display-name lang="en">K+NS HD (DRM)</display-name>
+    <icon src="https://i.imgur.com/4kKphEM.png" width="" height=""/>
+  </channel>
+  <channel id="kpluspchd">
+    <display-name lang="en">K+PC HD (DRM)</display-name>
+    <icon src="https://i.imgur.com/IaG3BQQ.png" width="" height=""/>
+  </channel>
+  <channel id="kpluspmhd">
+    <display-name lang="en">K+PM HD (DRM)</display-name>
+    <icon src="https://i.imgur.com/ND1139A.png" width="" height=""/>
+  </channel>
+  <channel id="hanoicab4_mov">
+    <display-name lang="en">MOV - Hanoicab 4</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="hanoicab2_youtv">
+    <display-name lang="en">YouTV - Hanoicab 2</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="dw">
+    <display-name lang="en">DW</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="kbs_world">
+    <display-name lang="en">KBS World</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab1_giai_tri_tv">
+    <display-name lang="en">VTVCab1 - Giải Trí TV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab2_phim_viet">
+    <display-name lang="en">VTVCab2 - Phim Việt</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab3_the_thao_tv_sd">
+    <display-name lang="en">VTVCab3 - Thể Thao TV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab3_the_thao_tv_hd">
+    <display-name lang="en">VTVCab3 - Thể Thao TV HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab4">
+    <display-name lang="en">VTVCab4</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab5_e_channel">
+    <display-name lang="en">VTVCab5 - E-Channel</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab6_haytv">
+    <display-name lang="en">VTVCab6 - HayTV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab7_vie_dramas">
+    <display-name lang="en">VTVCab7 - Vie Dramas</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab8_bibi">
+    <display-name lang="en">VTVCab8 - Bibi</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab9_infotv">
+    <display-name lang="en">VTVCab9 - InfoTV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab10">
+    <display-name lang="en">VTVCab10</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab11_vgs_shop">
+    <display-name lang="en">VTVCab11 - VGS SHOP</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab12_style_tv">
+    <display-name lang="en">VTVCab12 - Style TV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab15">
+    <display-name lang="en">VTVCab15</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab16_bong_da_tv">
+    <display-name lang="en">VTVCab16 - Bóng Đá TV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab16_bong_da_tv_hd">
+    <display-name lang="en">VTVCab16 - Bóng Đá TV HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab17_yeah1_tv">
+    <display-name lang="en">VTVCab17 - Yeah1 TV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab18_tin_tuc_the_thao_hd">
+    <display-name lang="en">VTVCab18 - Tin Tức Thể Thao</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab19_kenh_phim">
+    <display-name lang="en">VTVCab19 - Kênh Phim</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab20_v_family">
+    <display-name lang="en">VTVCab20 - V Family</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab21_cartoon_kids">
+    <display-name lang="en">VTVCab21 - Cartoon Kids</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab22_life_tv">
+    <display-name lang="en">VTVCab22 - LifeTV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="vtvcab23_golf_hd">
+    <display-name lang="en">VTVCab23 - Golf HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="s_sport_3">
+    <display-name lang="en">S.Sport 3</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv_phim_tong_hop">
+    <display-name lang="en">SCTV Phim Tổng Hợp</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv_phim_tong_hop_hd">
+    <display-name lang="en">SCTV Phim Tổng Hợp HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv1">
+    <display-name lang="en">SCTV1</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv2_hd">
+    <display-name lang="en">SCTV2 HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv3_see_tv">
+    <display-name lang="en">SCTV3 - SeeTV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv4">
+    <display-name lang="en">SCTV4</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv6_hd">
+    <display-name lang="en">SCTV6 HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv7_hd">
+    <display-name lang="en">SCTV7 HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv9">
+    <display-name lang="en">SCTV9</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv11_tv_star">
+    <display-name lang="en">SCTV11 - TV Star</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv12">
+    <display-name lang="en">SCTV12</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv13_lady_tv">
+    <display-name lang="en">SCTV13 - Lady TV</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv13_hd_tvf">
+    <display-name lang="en">SCTV13 - HD TVF</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv14_kenh_phim_viet">
+    <display-name lang="en">SCTV14 - Kênh Phim Việt</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv15_s_sport_2">
+    <display-name lang="en">SCTV15 - S.Sport 2</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv15_hd_kenh_the_thao">
+    <display-name lang="en">SCTV15 HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv16">
+    <display-name lang="en">SCTV16</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv17_hd">
+    <display-name lang="en">SCTV17 HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv18_hd_kenh_18">
+    <display-name lang="en">SCTV18 HD</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv19">
+    <display-name lang="en">SCTV19</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="sctv21">
+    <display-name lang="en">SCTV21</display-name>
+    <icon src="" width="" height=""/>
+  </channel>
+  <channel id="radio">
+    <display-name lang="en">Radio Online</display-name>
+    <icon src="https://thumbs.dreamstime.com/b/radio-logo-radio-icon-simple-vector-radio-logo-radio-icon-simple-vector-white-background-124841155.jpg" width="" height=""/>
+  </channel>
+  <channel id="nimotv">
+    <display-name lang="en">Nimo TV</display-name>
+    <icon src="https://img.utdstc.com/icons/nimo-tv-for-streamer.png" width="" height=""/>
+  </channel>
+ </tv>
+ 
